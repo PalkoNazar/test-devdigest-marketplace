@@ -1,4 +1,11 @@
 {
+  "enabledPlugins": {
+    "hello-world@devdigest-ai": true,
+    "sdd-engineering@devdigest-ai-stable": true,
+    "engineering-paved-path@devdigest-ai-stable": true,
+    "research-tools@devdigest-ai-stable": true,
+    "architecture-review@devdigest-ai-stable": true
+  },
   "extraKnownMarketplaces": {
     "devdigest-ai": {
       "source": {
@@ -6,13 +13,13 @@
         "repo": "PalkoNazar/devdigest-ai-marketplace"
       },
       "autoUpdate": true
+    },
+    "devdigest-ai-stable": {
+      "source": {
+        "source": "github",
+        "repo": "PalkoNazar/devdigest-ai-marketplace",
+        "ref": "stable"
+      }
     }
-  },
-  "enabledPlugins": {
-    "sdd-engineering@devdigest-ai": true,
-    "engineering-paved-path@devdigest-ai": true,
-    "research-tools@devdigest-ai": true,
-    "architecture-review@devdigest-ai": true,
-    "hello-world@devdigest-ai": true
   }
 }
