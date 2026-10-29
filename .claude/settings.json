@@ -1,10 +1,10 @@
 {
   "enabledPlugins": {
     "hello-world@devdigest-ai": true,
-    "sdd-engineering@devdigest-ai-stable": true,
-    "engineering-paved-path@devdigest-ai-stable": true,
-    "research-tools@devdigest-ai-stable": true,
-    "architecture-review@devdigest-ai-stable": true
+    "sdd-engineering@devdigest-ai": true,
+    "engineering-paved-path@devdigest-ai": true,
+    "research-tools@devdigest-ai": true,
+    "architecture-review@devdigest-ai": true
   },
   "extraKnownMarketplaces": {
     "devdigest-ai": {
