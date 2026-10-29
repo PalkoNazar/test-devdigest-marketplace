@@ -1,0 +1,18 @@
+{
+  "extraKnownMarketplaces": {
+    "devdigest-ai": {
+      "source": {
+        "source": "github",
+        "repo": "PalkoNazar/devdigest-ai-marketplace"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "sdd-engineering@devdigest-ai": true,
+    "engineering-paved-path@devdigest-ai": true,
+    "research-tools@devdigest-ai": true,
+    "architecture-review@devdigest-ai": true,
+    "hello-world@devdigest-ai": true
+  }
+}
